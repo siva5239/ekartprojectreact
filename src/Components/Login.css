@@ -1,0 +1,32 @@
+
+.no-gutters{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 12px 12px 22px gray;
+  }
+  .img-fluid{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    height:466px;
+    
+  }
+  .heading{   
+     margin: 0px 0px 0px -225px;
+  }
+  .btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  marquee{
+    background-color: yellow;
+    width: 1534px;
+  }
+  .baground{
+    background-color:rgb(66, 50, 50);
+  }
